@@ -1,4 +1,5 @@
 def greet(name):
-  print("goodmorning",name)
-
-greet("Vivek")
+  
+return"good mmorning"
+msg=greet("Vivek")
+print("goodmorning",name)
